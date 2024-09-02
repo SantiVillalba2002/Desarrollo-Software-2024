@@ -1,0 +1,50 @@
+[28-Aug-2024 00:42:09 America/Buenos_Aires] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:42:09 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:45:52 America/Buenos_Aires] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:45:52 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:47:25 America/Buenos_Aires] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:47:25 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:47:27 America/Buenos_Aires] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:47:27 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:48:36 America/Buenos_Aires] PHP Warning:  require(Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 00:48:36 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required 'Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:37:15 America/Buenos_Aires] PHP Warning:  require(/home/flyweb/santiagovillaba.flyweb.com.ar/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:37:15 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required '/home/flyweb/santiagovillaba.flyweb.com.ar/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:38:31 America/Buenos_Aires] PHP Warning:  require(/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:38:31 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:38:35 America/Buenos_Aires] PHP Warning:  require(/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:38:35 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:42:17 America/Buenos_Aires] PHP Warning:  require(/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:42:17 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:42:20 America/Buenos_Aires] PHP Warning:  require(/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
+[28-Aug-2024 23:42:20 America/Buenos_Aires] PHP Fatal error:  Uncaught Error: Failed opening required '/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flyweb/santiagovillaba.flyweb.com.ar/send_email.php on line 5
